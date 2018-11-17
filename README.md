@@ -8,3 +8,4 @@ Hass.io add-ons
 ## [SmartThings](https://github.com/frwickst/hassio-addons/tree/master/smartthings)
 
 SmartThings MQQT Bridge
+
