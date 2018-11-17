@@ -5,6 +5,6 @@ Hass.io add-ons
 
 ## Pre-built images
 
-## [SmartThings](https://github.com/vkorn/hassio-addons/tree/master/smartthings) [![](https://images.microbadger.com/badges/version/vkorn/armhf-smartthings.svg)](https://microbadger.com/images/vkorn/armhf-smartthings "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/vkorn/armhf-smartthings.svg)](https://microbadger.com/images/vkorn/armhf-smartthings "Get your own image badge on microbadger.com")
+## [SmartThings](https://github.com/frwickst/hassio-addons/tree/master/smartthings)
 
 SmartThings MQQT Bridge
