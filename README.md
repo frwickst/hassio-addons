@@ -7,5 +7,8 @@ Hass.io add-ons
 
 ## [SmartThings](https://github.com/frwickst/hassio-addons/tree/master/smartthings)
 
-SmartThings MQQT Bridge
+SmartThings MQTT Bridge
 
+## [Certbot](https://github.com/frwickst/hassio-addons/tree/master/certbot)
+
+# Certbot (let's encrypt) addon for hass.io

@@ -5,6 +5,7 @@ before_install:
   - sudo apt-get install jq
 env:
   - ADDON="smartthings"
+  - ADDON="certbot"
 script:
   - echo "$DOCKER_PASS" | docker login -u "$DOCKER_USER" --password-stdin
   - ./build.sh $ADDON
